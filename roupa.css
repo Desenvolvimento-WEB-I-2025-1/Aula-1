@@ -1,0 +1,17 @@
+.teste1{
+    color:#c57f7f;
+    text-align: center;
+}
+
+.teste2{
+    color: rgb(255, 255, 255);
+}
+
+
+
+.botao1{
+    color: rgb(255, 255, 255);
+    background-color: red;
+    border-color: red;
+    border-radius: 5px;
+}
